@@ -9,13 +9,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "express": "^4.13.3"
+    "express": "4.13.3"
   },
   "dependencies": {
-    "body-parser": "^1.14.1",
-    "express": "^4.13.3",
-    "lodash": "^4.13.1",
-    "method-override": "^2.3.6",
+    "body-parser": "1.14.1",
+    "express": "4.13.3",
+    "lodash": "4.13.1",
+    "method-override": "2.3.6",
     "mustache-express4": "0.0.7"
   }
 }
